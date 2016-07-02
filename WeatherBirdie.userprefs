@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="WeatherBirdie\WeatherBirdie.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.ZY222T73LD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherBirdie\MainActivity.cs">
+    <Files>
+      <File FileName="WeatherBirdie\MainActivity.cs" Line="18" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherBirdie AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

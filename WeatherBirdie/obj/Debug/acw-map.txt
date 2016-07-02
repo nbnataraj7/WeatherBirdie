@@ -1,0 +1,8 @@
+WeatherBirdie.MainActivity, WeatherBirdie;md55c6f8e28dadd97f54a94144cb123839e.MainActivity
+WeatherBirdie.MainActivity, WeatherBirdie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55c6f8e28dadd97f54a94144cb123839e.MainActivity
+WeatherBirdie.MainActivity;md55c6f8e28dadd97f54a94144cb123839e.MainActivity
+weatherbirdie.MainActivity;md55c6f8e28dadd97f54a94144cb123839e.MainActivity
+WeatherBirdie.WeatherDetails, WeatherBirdie;md55c6f8e28dadd97f54a94144cb123839e.WeatherDetails
+WeatherBirdie.WeatherDetails, WeatherBirdie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55c6f8e28dadd97f54a94144cb123839e.WeatherDetails
+WeatherBirdie.WeatherDetails;md55c6f8e28dadd97f54a94144cb123839e.WeatherDetails
+weatherbirdie.WeatherDetails;md55c6f8e28dadd97f54a94144cb123839e.WeatherDetails
